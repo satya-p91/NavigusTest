@@ -1,0 +1,7 @@
+insert into beer(img,name,descr, isfav) values('1.jpeg','Buzz','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ', false);
+insert into beer(img,name,descr, isfav) values('2.jpeg','Budweiser','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ', false);
+insert into beer(img,name,descr, isfav) values('3.jpeg','Kingfisher strong','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ', false);
+insert into beer(img,name,descr, isfav) values('4.jpeg','Electric India','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ', false);
+insert into beer(img,name,descr, isfav) values('5.jpeg','Founders','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ', false);
+insert into beer(img,name,descr, isfav) values('6.jpeg','LandShark','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ', false);
+insert into beer(img,name,descr, isfav) values('7.jpeg','pilsen lager','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.', false);
